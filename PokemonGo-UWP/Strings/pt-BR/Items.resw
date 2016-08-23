@@ -82,7 +82,7 @@
     <value>Ovo da sorte</value>
   </data>
   <data name="ItemMasterBall" xml:space="preserve">
-    <value>Bola Maestra</value>
+    <value>Bola Mestre</value>
   </data>
   <data name="ItemMaxPotion" xml:space="preserve">
     <value>Poção Máxima</value>

@@ -22,7 +22,7 @@
     <value>Faça o LOGIN com uma conta do PTC</value>
   </data>
   <data name="LoginDisclaimerTextBox.Text" xml:space="preserve">
-    <value>Para entrar você precisa inserir seu nome de usuário/E-mail e senha neste app. Se não confia nele, por favor, feche-o antes de continuar. Não nos responsabilizamos por nada.</value>
+    <value>Para entrar você precisa inserir seu nome de usuário/E-mail e senha neste app. Se não confia nele, por favor, feche-o. Não nos responsabilizamos por nada.</value>
   </data>
   <data name="NearbyPokemonTextBlock.Text" xml:space="preserve">
     <value>nas proximidades</value>
@@ -42,6 +42,9 @@
   <data name="SettingsMusicTextBlock.Text" xml:space="preserve">
     <value>Música</value>
   </data>
+  <data name="PokemonTextBlock.Text" xml:space="preserve">
+    <value>POKÉMON</value>
+  </data>
   <data name="SettingsHeaderTextBlock.Text" xml:space="preserve">
     <value>CONFIGURAÇÕES</value>
   </data>
@@ -56,9 +59,6 @@
   </data>
   <data name="LowercaseItemsTextBlock.Text" xml:space="preserve">
     <value>Itens</value>
-  </data>
-  <data name="TotalExperienceTextBlock.Text" xml:space="preserve">
-    <value>TOTAL</value>
   </data>
   <data name="LevelUpTextBlock.Text" xml:space="preserve">
     <value>Subiu de nível!</value>
@@ -96,9 +96,6 @@
   <data name="MTextBlock.Text" xml:space="preserve">
     <value>m</value>
   </data>
-  <data name="StardustTextBlock.Text" xml:space="preserve">
-    <value>STARDUST</value>
-  </data>
   <data name="CandyTextBlock.Text" xml:space="preserve">
     <value>DOCE</value>
     <comment>Watch out: space before the word!</comment>
@@ -132,9 +129,6 @@
   </data>
   <data name="PokedexSeen.Text" xml:space="preserve">
     <value>Visto:</value>
-  </data>
-  <data name="PokedexText.Text" xml:space="preserve">
-    <value>POKÉDEX</value>
   </data>
   <data name="PokedexViewCaught.Text" xml:space="preserve">
     <value>Capturado</value>

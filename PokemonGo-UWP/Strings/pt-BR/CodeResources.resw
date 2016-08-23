@@ -57,6 +57,9 @@
   <data name="SomethingWentWrongText" xml:space="preserve">
     <value>Algo deu errado e app pode estar instável agora. Você quer sair e tentar de novo?</value>
   </data>
+  <data name="TimeFormat" xml:space="preserve">
+    <value>hh:mm tt</value>
+  </data>
   <data name="UpdateDownloadingText" xml:space="preserve">
     <value>Baixando atualização {0}</value>
   </data>
@@ -78,13 +81,13 @@ Abrir a página com os arquivos de instalação para instalação manual?</value
     <value>Sim</value>
   </data>
   <data name="InstinctTeamText" xml:space="preserve">
-    <value>Instinto</value>
+    <value>Instinto </value>
   </data>
   <data name="NoTeamText" xml:space="preserve">
     <value>Sem equipe</value>
   </data>
   <data name="MysticTeamText" xml:space="preserve">
-    <value>Místico</value>
+    <value>Místico </value>
   </data>
   <data name="TransferPokemonSuccessText" xml:space="preserve">
     <value>Transferencia bem sucedida! Você ganhou {0} doce do professor.</value>
@@ -153,16 +156,16 @@ Abrir a página com os arquivos de instalação para instalação manual?</value
     <value>Libertar Pokémon</value>
   </data>
   <data name="ActivityHatchEggSmallBonus" xml:space="preserve">
-    <value>Ovos chocados Pequeno bonus</value>
+    <value>Ovos chocados, pequeno bonus</value>
   </data>
   <data name="ActivityHatchEggMediumBonus" xml:space="preserve">
-    <value>Ovos chocados Bonus Médio</value>
+    <value>Ovos chocados, bonus médio</value>
   </data>
   <data name="ActivityHatchEggLargeBonus" xml:space="preserve">
-    <value>Ovos chocados Bonus Grande</value>
+    <value>Ovos chocados, bonus grande</value>
   </data>
   <data name="ActivityDefeatGymDefender" xml:space="preserve">
-    <value>Derroto o Defensor do Ginásio</value>
+    <value>Derrote o Defensor do Ginásio</value>
   </data>
   <data name="ActivityDefeatGymLeader" xml:space="preserve">
     <value>Derrote o Líder do Ginásio</value>

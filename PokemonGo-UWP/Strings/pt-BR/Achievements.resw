@@ -124,16 +124,18 @@
     <value>Andou {0} km</value>
   </data>
   <data name="BugDescription" xml:space="preserve">
-    <value>Capturou {0} Pokemon Insetos</value>
+    <value>Capturou {0} Pokemon(s) Inseto
+</value>
   </data>
   <data name="DragonDescription" xml:space="preserve">
-    <value>Capturou {0} Pokemon Dragoes</value>
+    <value>Capturou {0} Pokemon(s) Dragão
+</value>
   </data>
   <data name="ElectricDescription" xml:space="preserve">
-    <value>Capturou {0} Pokemons Elétricos</value>
+    <value>Capturou {0} Pokemon(s) Elétrico</value>
   </data>
   <data name="FairyDescription" xml:space="preserve">
-    <value>Capturou {0} Pokemons Mágicos</value>
+    <value>Capturou {0} Pokemon(s) Mágico</value>
   </data>
   <data name="FightingDescription" xml:space="preserve">
     <value>Capturou {0} Pokemons Lutadores</value>
@@ -145,16 +147,16 @@
     <value>Capturou {0} Pokemons Voadores</value>
   </data>
   <data name="GhostDescription" xml:space="preserve">
-    <value>Capturou {0} Pokemons Fantasmas</value>
+    <value>Capturou {0} Pokemon(s) Fantasma</value>
   </data>
   <data name="GrassDescription" xml:space="preserve">
-    <value>Capturou {0} Pokemons Grama</value>
+    <value>Capturou {0} Pokemon(s)  Grama</value>
   </data>
   <data name="GroundDescription" xml:space="preserve">
-    <value>Capturou {0} Pokemons Terra</value>
+    <value>Capturou {0} Pokemon(s) Terra</value>
   </data>
   <data name="IceDescription" xml:space="preserve">
-    <value>Capturou {0} Pokemons Gelo</value>
+    <value>Capturou {0} Pokemon(s) Gelo</value>
   </data>
   <data name="NormalDescription" xml:space="preserve">
     <value>Capturou {0} Pokemons Normais</value>

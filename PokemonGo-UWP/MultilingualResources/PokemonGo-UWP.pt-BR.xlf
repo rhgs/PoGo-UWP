@@ -34,9 +34,9 @@
           <source>Pikachu</source>
           <target state="final" state-qualifier="mt-suggestion">Pikachu</target>
         </trans-unit>
-        <trans-unit id="BadgePokedexEntries" translate="yes" xml:space="preserve">
+        <trans-unit id="BadgePokedexEntries" translate="no" xml:space="preserve">
           <source>Kanto</source>
-          <target state="new">Kanto</target>
+          <target state="final">Kanto</target>
         </trans-unit>
         <trans-unit id="BadgePokestopsVisited" translate="yes" xml:space="preserve">
           <source>Backpacker</source>
@@ -1057,17 +1057,17 @@ Também tem {1} Stardust, {2} Candy e {3} XP.</target>
           <source>Doduo</source>
           <target state="new">Doduo</target>
         </trans-unit>
-        <trans-unit id="Dragonair" translate="yes" xml:space="preserve">
+        <trans-unit id="Dragonair" translate="no" xml:space="preserve">
           <source>Dragonair</source>
-          <target state="new">Dragonair</target>
+          <target state="final">Dragonair</target>
         </trans-unit>
-        <trans-unit id="Dragonite" translate="yes" xml:space="preserve">
+        <trans-unit id="Dragonite" translate="no" xml:space="preserve">
           <source>Dragonite</source>
-          <target state="new">Dragonite</target>
+          <target state="final">Dragonite</target>
         </trans-unit>
-        <trans-unit id="Dratini" translate="yes" xml:space="preserve">
+        <trans-unit id="Dratini" translate="no" xml:space="preserve">
           <source>Dratini</source>
-          <target state="new">Dratini</target>
+          <target state="final">Dratini</target>
         </trans-unit>
         <trans-unit id="Drowzee" translate="yes" xml:space="preserve">
           <source>Drowzee</source>
@@ -1189,29 +1189,29 @@ Também tem {1} Stardust, {2} Candy e {3} XP.</target>
           <source>Jigglypuff</source>
           <target state="new">Jigglypuff</target>
         </trans-unit>
-        <trans-unit id="Jolteon" translate="yes" xml:space="preserve">
+        <trans-unit id="Jolteon" translate="no" xml:space="preserve">
           <source>Jolteon</source>
-          <target state="new">Jolteon</target>
+          <target state="final">Jolteon</target>
         </trans-unit>
-        <trans-unit id="Jynx" translate="yes" xml:space="preserve">
+        <trans-unit id="Jynx" translate="no" xml:space="preserve">
           <source>Jynx</source>
-          <target state="new">Jynx</target>
+          <target state="final">Jynx</target>
         </trans-unit>
-        <trans-unit id="Kabuto" translate="yes" xml:space="preserve">
+        <trans-unit id="Kabuto" translate="no" xml:space="preserve">
           <source>Kabuto</source>
-          <target state="new">Kabuto</target>
+          <target state="final">Kabuto</target>
         </trans-unit>
-        <trans-unit id="Kabutops" translate="yes" xml:space="preserve">
+        <trans-unit id="Kabutops" translate="no" xml:space="preserve">
           <source>Kabutops</source>
-          <target state="new">Kabutops</target>
+          <target state="final">Kabutops</target>
         </trans-unit>
-        <trans-unit id="Kadabra" translate="yes" xml:space="preserve">
+        <trans-unit id="Kadabra" translate="no" xml:space="preserve">
           <source>Kadabra</source>
-          <target state="new">Kadabra</target>
+          <target state="final">Kadabra</target>
         </trans-unit>
-        <trans-unit id="Kakuna" translate="yes" xml:space="preserve">
+        <trans-unit id="Kakuna" translate="no" xml:space="preserve">
           <source>Kakuna</source>
-          <target state="new">Kakuna</target>
+          <target state="final">Kakuna</target>
         </trans-unit>
         <trans-unit id="Kangaskhan" translate="yes" xml:space="preserve">
           <source>Kangaskhan</source>

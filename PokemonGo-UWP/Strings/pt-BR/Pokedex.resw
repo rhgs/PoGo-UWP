@@ -37,8 +37,7 @@
     <value>Sua cauda é grande e coberta com um rico pelo. Conforme o Wartortle envelhece sua cauda torna-se cada vez mais profunda em cores. Os arranhões na sua concha são provas de resistência deste Pokémon como um combatente .</value>
   </data>
   <data name="Blastoise.Description" xml:space="preserve">
-    <value>
-Blastoise tem bicos de água que se projetam de sua concha . Os bicos de água são muito precisos . Eles podem disparar balas de água com uma precisão suficiente para atacar latas vazias de uma distância de mais de 160 pés.</value>
+    <value>Blastoise tem bicos de água que se projetam de sua concha . Os bicos de água são muito precisos . Eles podem disparar balas de água com uma precisão suficiente para atacar latas vazias de uma distância de mais de 160 pés.</value>
   </data>
   <data name="Caterpie.Description" xml:space="preserve">
     <value>Caterpie tem um apetite voraz . Ele pode devorar as folhas maiores do que o seu corpo bem diante dos seus olhos. A partir de sua antena , este Pokémon libera um odor terrivelmente forte .</value>
@@ -80,7 +79,7 @@ Blastoise tem bicos de água que se projetam de sua concha . Os bicos de água s
     <value>Fearow é reconhecido por seu longo pescoço e bico alongado. Eles estão convenientemente em forma para a captura de presas no solo ou na água . Ele habilmente move seu longo emagro bico para pegar a presa</value>
   </data>
   <data name="Ekans.Description" xml:space="preserve">
-    <value>Ekans enrola -se em uma espiral enquanto descansa. Assumindo esta posição ele pode responder rapidamente a uma ameaça de qualquer direção com um olhar de sua cabeça.</value>
+    <value>Ekans enrola-se em uma espiral enquanto descansa. Assumindo esta posição ele pode responder rapidamente a uma ameaça de qualquer direção com um olhar de sua cabeça.</value>
   </data>
   <data name="Arbok.Description" xml:space="preserve">
     <value>Este Pokémon é terrivelmente forte , ele pode contrarir as coisas com o seu corpo. Ele pode até mesmo achatar tambores de óleo de aço. Uma vez que Arbok envolve seu corpo em torno de seu inimigo , escapar de seu abraço trituração é impossível</value>

@@ -28,10 +28,10 @@
     <value>Incenso com uma fragrância misteriosa que atrai os Pokémon selvagens para a sua localização por 30 minutos</value>
   </data>
   <data name="D_ItemIncubatorBasic" xml:space="preserve">
-    <value>Um dispositivo que incuba o ovo conforme você anda até que esteja pronto para eclodir.</value>
+    <value>Um dispositivo que incuba o ovo conforme você anda até que esteja pronto para eclodir. Quebra após 3 usos.</value>
   </data>
   <data name="D_ItemIncubatorBasicUnlimited" xml:space="preserve">
-    <value>Um dispositivo que incuba o ovo conforme você anda até que esteja pronto para eclodir.</value>
+    <value>Um dispositivo que incuba o ovo conforme você anda até que esteja pronto para eclodir. Uso ilimitado!</value>
   </data>
   <data name="D_ItemMasterBall" xml:space="preserve">
     <value>Um dispositivo para capturar Pokémon selvagens. É jogado como uma bola em um Pokémon selvagem, encapsulando confortavelmente seu alvo.</value>
@@ -130,12 +130,31 @@
     <value>Fruta Wepar</value>
   </data>
   <data name="ItemXAttack" xml:space="preserve">
-    <value>X Ataque</value>
+    <value>Ataque X
+</value>
   </data>
   <data name="ItemXDefense" xml:space="preserve">
     <value>X Defesa</value>
   </data>
   <data name="ItemXMiracle" xml:space="preserve">
     <value>X Milagre</value>
+  </data>
+  <data name="D_ItemLuckyEgg" xml:space="preserve">
+    <value>Um ovo da sorte que é cheio de felicidade! Ganha XP Duplo para 30 minutos.</value>
+  </data>
+  <data name="D_ItemRazzBerry" xml:space="preserve">
+    <value>Dê isto para um Pokémon, e será mais fácil de pega-lo no seu próximo arremesso.</value>
+  </data>
+  <data name="D_ItemSpecialCamera" xml:space="preserve">
+    <value>Quando você encontrar um Pokémon na selva, você pode usar sua câmera para fotografá-los.</value>
+  </data>
+  <data name="D_ItemSuperPotion" xml:space="preserve">
+    <value>Um medicamento do tipo spray para o tratamento de feridas. Ele restaura o HP de um Pokémon por 50 pontos.</value>
+  </data>
+  <data name="D_ItemTroyDisk" xml:space="preserve">
+    <value>Módulo que atrai o Pokémon para uma Pokéstop por 30 min. Este efeito beneficia outras pessoas nas proximidades.</value>
+  </data>
+  <data name="D_ItemUnknown" xml:space="preserve">
+    <value>Este item é desconhecido e pode ser adicionado no futuro. </value>
   </data>
 </root>

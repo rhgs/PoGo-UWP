@@ -12,6 +12,12 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="DateFormat" xml:space="preserve">
+    <value>dd.MM.yyyy</value>
+  </data>
+  <data name="DateTimeFormat" xml:space="preserve">
+    <value>dd.MM.yyyy hh:mm tt</value>
+  </data>
   <data name="PokemonFledText" xml:space="preserve">
     <value>{0} fugiu</value>
   </data>
@@ -71,8 +77,14 @@ Abrir a página com os arquivos de instalação para instalação manual?</value
   <data name="YesText" xml:space="preserve">
     <value>Sim</value>
   </data>
+  <data name="InstinctTeamText" xml:space="preserve">
+    <value>Instinto</value>
+  </data>
   <data name="NoTeamText" xml:space="preserve">
     <value>Sem equipe</value>
+  </data>
+  <data name="MysticTeamText" xml:space="preserve">
+    <value>Místico</value>
   </data>
   <data name="TransferPokemonSuccessText" xml:space="preserve">
     <value>Transferencia bem sucedida! Você ganhou {0} doce do professor.</value>
@@ -175,5 +187,12 @@ Abrir a página com os arquivos de instalação para instalação manual?</value
   </data>
   <data name="PokemonInventoryFullText" xml:space="preserve">
     <value>Seu inventário Pokemon está cheio, transfira algun Pokémon antes de pegar {0}.</value>
+  </data>
+  <data name="WaitingForNetworkText" xml:space="preserve">
+    <value>Esperando a rede voltar...</value>
+  </data>
+  <data name="EggHatchMessage" xml:space="preserve">
+    <value>Um ovo eclodiu em {0}. 
+Também tem {1} Stardust, {2} Candy e {3} XP.</value>
   </data>
 </root>

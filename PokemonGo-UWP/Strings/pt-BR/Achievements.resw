@@ -30,9 +30,6 @@
   <data name="BadgeHatchedTotal" xml:space="preserve">
     <value>Reprodutor</value>
   </data>
-  <data name="BadgePikachu" xml:space="preserve">
-    <value>Pikachu</value>
-  </data>
   <data name="BadgePokestopsVisited" xml:space="preserve">
     <value>Mochileiro</value>
   </data>

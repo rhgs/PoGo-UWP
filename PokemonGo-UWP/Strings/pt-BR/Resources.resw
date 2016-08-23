@@ -28,7 +28,7 @@
     <value>nas proximidades</value>
   </data>
   <data name="OutOfRangeTextBlock.Text" xml:space="preserve">
-    <value>Você está fora do alcance</value>
+    <value>Esta Poléstop esta muito longe.</value>
   </data>
   <data name="LoginPasswordPasswordBox.PlaceholderText" xml:space="preserve">
     <value>Senha</value>
@@ -110,7 +110,7 @@
     <value>ENERGIZAR</value>
   </data>
   <data name="EggDetailButtonTextBlock.Text" xml:space="preserve">
-    <value>Começar incubaçao</value>
+    <value>Começar incubação</value>
   </data>
   <data name="EggDetailTextBlock.Text" xml:space="preserve">
     <value>Use uma incubadora para evoluir o ovo.</value>
@@ -119,7 +119,7 @@
     <value>Capturado:</value>
   </data>
   <data name="PokedexEvolutions.Text" xml:space="preserve">
-    <value>Evoluçoes</value>
+    <value>Evoluções</value>
   </data>
   <data name="PokedexPokemonHeight.Text" xml:space="preserve">
     <value>Altura:</value>
@@ -152,7 +152,7 @@
     <value>TRANSFERIR</value>
   </data>
   <data name="SettingsLanguageRestartTextBlock.Text" xml:space="preserve">
-    <value>Você precisa restartar a aplicaçao para que as mudanças tenham efeito.</value>
+    <value>Você precisa reiniciar a aplicaçao para que as mudanças tenham efeito.</value>
   </data>
   <data name="SettingsLanguageTextBlock.Text" xml:space="preserve">
     <value>Linguagem</value>

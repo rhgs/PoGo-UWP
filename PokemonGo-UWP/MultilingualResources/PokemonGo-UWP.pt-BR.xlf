@@ -483,7 +483,7 @@ Abrir a página com os arquivos de instalação para instalação manual?</targe
         </trans-unit>
         <trans-unit id="PokemonInventoryFullText" translate="yes" xml:space="preserve">
           <source>Your Pokémon inventory is full, transfer some Pokémon before trying to catch {0}.</source>
-          <target state="final">Seu inventário Pokémon está cheio, transfira algun Pokémon antes de pegar {0}.</target>
+          <target state="translated">Seu inventário Pokémon está cheio, transfira algum Pokémon antes de pegar {0}.</target>
         </trans-unit>
         <trans-unit id="WaitingForNetworkText" translate="yes" xml:space="preserve">
           <source>Waiting for network to be back...</source>
@@ -926,7 +926,7 @@ Também tem {1} Stardust, {2} Candy e {3} XP.</target>
         </trans-unit>
         <trans-unit id="D_ItemLuckyEgg" translate="yes" xml:space="preserve">
           <source>A Lucky Egg that's filled with happiness! Earns double XP for 30 minutes.</source>
-          <target state="final">Um ovo da sorte que é cheio de felicidade! Ganha XP Duplo para 30 minutos.</target>
+          <target state="translated">Um ovo da sorte que é cheio de felicidade! Dobra XP por 30 minutos.</target>
         </trans-unit>
         <trans-unit id="D_ItemRazzBerry" translate="yes" xml:space="preserve">
           <source>Feed this to a Pokémon, and it will be easier to catch on your next throw.</source>
@@ -2565,7 +2565,7 @@ Também tem {1} Stardust, {2} Candy e {3} XP.</target>
         </trans-unit>
         <trans-unit id="Machop.Description" translate="yes" xml:space="preserve">
           <source>Machop exercises by hefting around a Graveler as if it were a barbell. There are some Machop that travel the world in a quest to master all kinds of martial arts.</source>
-          <target state="translated">O Marchop se exercita por ai , usando uma barra. Existem alguns Machops que viajam pelo mundo buscando dominar todos os tipos de artes marciais.</target>
+          <target state="translated">O Marchop se exercita por ai usando uma barra. Existem alguns Machops que viajam pelo mundo buscando dominar todos os tipos de artes marciais.</target>
         </trans-unit>
         <trans-unit id="Machoke.Description" translate="yes" xml:space="preserve">
           <source>Machoke undertakes bodybuilding every day even as it helps people with tough, physically demanding labor. On its days off, this Pokémon heads to the fields and mountains to exercise and train.</source>

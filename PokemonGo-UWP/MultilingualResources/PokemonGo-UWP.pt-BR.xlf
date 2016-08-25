@@ -164,73 +164,73 @@
         </trans-unit>
         <trans-unit id="BugDescription" translate="yes" xml:space="preserve">
           <source>Caught {0} Bug Pokemon</source>
-          <target state="translated">Capturou {0} Pokemons Insetos
+          <target state="translated">Capturou {0} Pokémons Insetos
 </target>
         </trans-unit>
         <trans-unit id="DragonDescription" translate="yes" xml:space="preserve">
           <source>Caught {0} Dragon Pokemon</source>
-          <target state="translated">Capturou {0} Pokemons Dragões
+          <target state="translated">Capturou {0} Pokémons Dragões
 </target>
         </trans-unit>
         <trans-unit id="ElectricDescription" translate="yes" xml:space="preserve">
           <source>Caught {0} Electric Pokemon</source>
-          <target state="translated">Capturou {0} Pokemons Elétricos</target>
+          <target state="translated">Capturou {0} Pokémons Elétricos</target>
         </trans-unit>
         <trans-unit id="FairyDescription" translate="yes" xml:space="preserve">
           <source>Caught {0} Fairy Pokemon</source>
-          <target state="translated">Capturou {0} Pokemons Mágicos</target>
+          <target state="translated">Capturou {0} Pokémons Mágicos</target>
         </trans-unit>
         <trans-unit id="FightingDescription" translate="yes" xml:space="preserve">
           <source>Caught {0} Fighting Pokemon</source>
-          <target state="translated">Capturou {0} Pokemons Lutadores</target>
+          <target state="translated">Capturou {0} Pokémons Lutadores</target>
         </trans-unit>
         <trans-unit id="FireDescription" translate="yes" xml:space="preserve">
           <source>Caught {0} Fire Pokemon</source>
-          <target state="final">Capturou {0} Pokemons de Fogo</target>
+          <target state="translated">Capturou {0} Pokémons de Fogo</target>
         </trans-unit>
         <trans-unit id="FlyingDescription" translate="yes" xml:space="preserve">
           <source>Caught {0} Flying Pokemon</source>
-          <target state="final">Capturou {0} Pokemons Voadores</target>
+          <target state="translated">Capturou {0} Pokémons Voadores</target>
         </trans-unit>
         <trans-unit id="GhostDescription" translate="yes" xml:space="preserve">
           <source>Caught {0} Ghost Pokemon</source>
-          <target state="translated">Capturou {0} Pokemons Fantasmas</target>
+          <target state="translated">Capturou {0} Pokémons Fantasmas</target>
         </trans-unit>
         <trans-unit id="GrassDescription" translate="yes" xml:space="preserve">
           <source>Caught {0} Grass Pokemon</source>
-          <target state="translated">Capturou {0} Pokemons  Grama</target>
+          <target state="translated">Capturou {0} Pokémons  Grama</target>
         </trans-unit>
         <trans-unit id="GroundDescription" translate="yes" xml:space="preserve">
           <source>Caught {0} Ground Pokemon</source>
-          <target state="final">Capturou {0} Pokemons de Terra</target>
+          <target state="translated">Capturou {0} Pokémons de Terra</target>
         </trans-unit>
         <trans-unit id="IceDescription" translate="yes" xml:space="preserve">
           <source>Caught {0} Ice Pokemon</source>
-          <target state="final">Capturou {0} Pokemons de Gelo</target>
+          <target state="translated">Capturou {0} Pokémons de Gelo</target>
         </trans-unit>
         <trans-unit id="NormalDescription" translate="yes" xml:space="preserve">
           <source>Caught {0} Normal Pokemon</source>
-          <target state="final">Capturou {0} Pokemons Normais</target>
+          <target state="translated">Capturou {0} Pokémons Normais</target>
         </trans-unit>
         <trans-unit id="PoisonDescription" translate="yes" xml:space="preserve">
           <source>Caught {0} Poison Pokemon</source>
-          <target state="final">Capturou {0} Pokemons Venenosos</target>
+          <target state="translated">Capturou {0} Pokémons Venenosos</target>
         </trans-unit>
         <trans-unit id="PsychicDescription" translate="yes" xml:space="preserve">
           <source>Caught {0} Psychic Pokemon</source>
-          <target state="final">Capturou {0} Pokemon Pisiquicos</target>
+          <target state="final">Capturou {0} Pokémons Psíquicos</target>
         </trans-unit>
         <trans-unit id="RockDescription" translate="yes" xml:space="preserve">
           <source>Caught {0} Rock Pokemon</source>
-          <target state="final">Capturou {0} Pokemons de Rocha</target>
+          <target state="translated">Capturou {0} Pokémons de Rocha</target>
         </trans-unit>
         <trans-unit id="SteelDescription" translate="yes" xml:space="preserve">
           <source>Caught {0} Steel Pokemon</source>
-          <target state="final">Capturou {0} Pokemons de Aço</target>
+          <target state="translated">Capturou {0} Pokémons de Aço</target>
         </trans-unit>
         <trans-unit id="WaterDescription" translate="yes" xml:space="preserve">
           <source>Caught {0} Water Pokemon</source>
-          <target state="final">Capturou {0} Pokemon de Água</target>
+          <target state="translated">Capturou {0} Pokémons de Água</target>
         </trans-unit>
       </group>
     </body>
@@ -360,7 +360,7 @@ Abrir a página com os arquivos de instalação para instalação manual?</targe
         </trans-unit>
         <trans-unit id="LoginExpired" translate="yes" xml:space="preserve">
           <source>Previous login expired.</source>
-          <target state="translated">Login Expirou.</target>
+          <target state="final">Login Expirou.</target>
         </trans-unit>
         <trans-unit id="ActivityUnknown" translate="yes" xml:space="preserve">
           <source>Unknown</source>
@@ -452,11 +452,11 @@ Abrir a página com os arquivos de instalação para instalação manual?</targe
         </trans-unit>
         <trans-unit id="ActivityDefeatGymDefender" translate="yes" xml:space="preserve">
           <source>Defeat Gym Defender</source>
-          <target state="translated">Derrote o Defensor do Ginásio</target>
+          <target state="final">Derrote o Defensor do Ginásio</target>
         </trans-unit>
         <trans-unit id="ActivityDefeatGymLeader" translate="yes" xml:space="preserve">
           <source>Defeat Gym Leader</source>
-          <target state="translated">Derrote o Líder do Ginásio</target>
+          <target state="final">Derrote o Líder do Ginásio</target>
         </trans-unit>
         <trans-unit id="Combat" translate="yes" xml:space="preserve">
           <source>Combat</source>
@@ -498,15 +498,15 @@ Também tem {1} Stardust, {2} Candy e {3} XP.</target>
         </trans-unit>
         <trans-unit id="EvolvePokemonWarningText" translate="yes" xml:space="preserve">
           <source>Do you want to evolve {0}?</source>
-          <target state="new">Do you want to evolve {0}?</target>
+          <target state="translated">Você quer evoluir {0} ?</target>
         </trans-unit>
         <trans-unit id="PowerUpPokemonWarningText" translate="yes" xml:space="preserve">
           <source>Do you want to use a power up for {0}?</source>
-          <target state="new">Do you want to use a power up for {0}?</target>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Você quer usar um poder para {0}?</target>
         </trans-unit>
         <trans-unit id="TransferPokemonWarningTitle" translate="yes" xml:space="preserve">
           <source>Do you really want to transfer {0} to the Professor?</source>
-          <target state="new">Do you really want to transfer {0} to the Professor?</target>
+          <target state="translated">Você realmente quer transferir {0}  para o Professor?</target>
         </trans-unit>
       </group>
     </body>
@@ -543,7 +543,7 @@ Também tem {1} Stardust, {2} Candy e {3} XP.</target>
         </trans-unit>
         <trans-unit id="OutOfRangeTextBlock.Text" translate="yes" xml:space="preserve">
           <source>THIS POKÉSTOP IS TOO FAR AWAY</source>
-          <target state="final">Está Pokéstop esta muito longe.</target>
+          <target state="final">A Pokéstop está muito longe.</target>
         </trans-unit>
         <trans-unit id="LoginPasswordPasswordBox.PlaceholderText" translate="yes" xml:space="preserve">
           <source>Password</source>
@@ -966,7 +966,7 @@ Também tem {1} Stardust, {2} Candy e {3} XP.</target>
         </trans-unit>
         <trans-unit id="D_ItemBlukBerry" translate="yes" xml:space="preserve">
           <source>Feed this to a Pokémon, and it will be easier to catch on your next throw.</source>
-          <target state="new">Feed this to a Pokémon, and it will be easier to catch on your next throw.</target>
+          <target state="translated">Dê isto para o Pokémon, e será mais fácil de pega-lo em seu próximo arremesso.</target>
         </trans-unit>
         <trans-unit id="D_ItemNanabBerry" translate="yes" xml:space="preserve">
           <source>Feed this to a Pokémon, and it will be easier to catch on your next throw.</source>

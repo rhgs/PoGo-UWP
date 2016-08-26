@@ -16,7 +16,7 @@
     <value>Abra</value>
   </data>
   <data name="Aerodactyl" xml:space="preserve">
-    <value>Aerodactyl </value>
+    <value>Aerodactyl</value>
   </data>
   <data name="Alakazam" xml:space="preserve">
     <value>Alakazam</value>
@@ -62,39 +62,6 @@
   </data>
   <data name="Clefable" xml:space="preserve">
     <value>Clefable</value>
-  </data>
-  <data name="Clefairy" xml:space="preserve">
-    <value>Clefairy</value>
-  </data>
-  <data name="Cloyster" xml:space="preserve">
-    <value>Cloyster</value>
-  </data>
-  <data name="Magmar" xml:space="preserve">
-    <value>Magmar</value>
-  </data>
-  <data name="Magnemite" xml:space="preserve">
-    <value>Magnemite</value>
-  </data>
-  <data name="Meowth" xml:space="preserve">
-    <value>Meowth</value>
-  </data>
-  <data name="Mew" xml:space="preserve">
-    <value>Mew</value>
-  </data>
-  <data name="NidoranFemale" xml:space="preserve">
-    <value>Nidoran ♀</value>
-  </data>
-  <data name="NidoranMale" xml:space="preserve">
-    <value>Nidoran ♂</value>
-  </data>
-  <data name="Onix" xml:space="preserve">
-    <value>Onix</value>
-  </data>
-  <data name="Pidgeot" xml:space="preserve">
-    <value>Pidgeot</value>
-  </data>
-  <data name="Pidgey" xml:space="preserve">
-    <value>Pidgey</value>
   </data>
   <data name="Pikachu" xml:space="preserve">
     <value>Pikachu</value>

@@ -92,7 +92,7 @@
         </trans-unit>
         <trans-unit id="Ice" translate="yes" xml:space="preserve">
           <source>Skier</source>
-          <target state="translated">Esquiador</target>
+          <target state="final">Esquiador</target>
         </trans-unit>
         <trans-unit id="Normal" translate="yes" xml:space="preserve">
           <source>School Kid</source>
@@ -108,7 +108,7 @@
         </trans-unit>
         <trans-unit id="Rock" translate="yes" xml:space="preserve">
           <source>Hiker</source>
-          <target state="translated">Alpinista</target>
+          <target state="final">Andarilho</target>
         </trans-unit>
         <trans-unit id="Steel" translate="yes" xml:space="preserve">
           <source>Depot Agent</source>
@@ -120,7 +120,7 @@
         </trans-unit>
         <trans-unit id="BadgeBattleAttackWonDescription" translate="yes" xml:space="preserve">
           <source>Won {0} gym battles</source>
-          <target state="translated">Ganhou {0} batalhas de ginásio.</target>
+          <target state="final">Ganhou {0} batalhas de ginásio</target>
         </trans-unit>
         <trans-unit id="BadgeBattleTrainingWonDescription" translate="yes" xml:space="preserve">
           <source>Won {0} training battles</source>
@@ -156,7 +156,7 @@
         </trans-unit>
         <trans-unit id="BadgeSmallRattataDescription" translate="yes" xml:space="preserve">
           <source>Caught {0} small Rattata</source>
-          <target state="translated">Capturou {0} Rattata</target>
+          <target state="final">Capturou {0} Rattata</target>
         </trans-unit>
         <trans-unit id="BadgeTravelKmDescription" translate="yes" xml:space="preserve">
           <source>Walked {0} km</source>
@@ -251,7 +251,7 @@
         </trans-unit>
         <trans-unit id="PokemonFledText" translate="yes" xml:space="preserve">
           <source>{0} fled</source>
-          <target state="translated">{0} fugiu</target>
+          <target state="final">{0} fugiu</target>
         </trans-unit>
         <trans-unit id="GettingGpsSignalText" translate="yes" xml:space="preserve">
           <source>Getting GPS signal...</source>
@@ -351,7 +351,7 @@ Abrir a página com os arquivos de instalação para instalação manual?</targe
         </trans-unit>
         <trans-unit id="TransferPokemonSuccessText" translate="yes" xml:space="preserve">
           <source>Transfer succeeded! Got a {0} Candy from the Professor.</source>
-          <target state="translated">Transferencia bem sucedida! Você ganhou um doce de {0} do professor.</target>
+          <target state="final">Transferencia bem sucedida! Você ganhou um doce de {0} do professor.</target>
         </trans-unit>
         <trans-unit id="TransferPokemonWarningText" translate="yes" xml:space="preserve">
           <source>You can't take it back after it's transferred to the Professor.</source>
@@ -483,7 +483,7 @@ Abrir a página com os arquivos de instalação para instalação manual?</targe
         </trans-unit>
         <trans-unit id="PokemonInventoryFullText" translate="yes" xml:space="preserve">
           <source>Your Pokémon inventory is full, transfer some Pokémon before trying to catch {0}.</source>
-          <target state="translated">Seu inventário Pokémon está cheio, transfira algum Pokémon antes de pegar {0}.</target>
+          <target state="final">Seu inventário Pokémon está cheio, transfira algum Pokémon antes de pegar {0}.</target>
         </trans-unit>
         <trans-unit id="WaitingForNetworkText" translate="yes" xml:space="preserve">
           <source>Waiting for network to be back...</source>
@@ -492,20 +492,20 @@ Abrir a página com os arquivos de instalação para instalação manual?</targe
         <trans-unit id="EggHatchMessage" translate="yes" xml:space="preserve">
           <source>An Egg hatched into a {0}.
 You also got {1} Stardust, {2} Candy and {3} XP.</source>
-          <target state="final" state-qualifier="mt-suggestion">Um ovo eclodiu em {0}. 
+          <target state="final">Um ovo eclodiu em {0}.
 Também tem {1} Stardust, {2} Candy e {3} XP.</target>
         </trans-unit>
         <trans-unit id="EvolvePokemonWarningText" translate="yes" xml:space="preserve">
           <source>Do you want to evolve {0}?</source>
-          <target state="translated">Você quer evoluir {0} ?</target>
+          <target state="final">Você quer evoluir {0} ?</target>
         </trans-unit>
         <trans-unit id="PowerUpPokemonWarningText" translate="yes" xml:space="preserve">
           <source>Do you want to use a power up for {0}?</source>
-          <target state="translated">Você quer treinar {0}?</target>
+          <target state="final">Você quer treinar {0}?</target>
         </trans-unit>
         <trans-unit id="TransferPokemonWarningTitle" translate="yes" xml:space="preserve">
           <source>Do you really want to transfer {0} to the Professor?</source>
-          <target state="translated">Você realmente quer transferir {0}  para o Professor?</target>
+          <target state="final">Você realmente quer transferir {0}  para o Professor?</target>
         </trans-unit>
       </group>
     </body>
@@ -680,7 +680,7 @@ Também tem {1} Stardust, {2} Candy e {3} XP.</target>
         </trans-unit>
         <trans-unit id="PowerUpButton.Content" translate="yes" xml:space="preserve">
           <source>POWER UP</source>
-          <target state="translated">TREINAR</target>
+          <target state="final">TREINAR</target>
         </trans-unit>
         <trans-unit id="EggDetailButtonTextBlock.Text" translate="yes" xml:space="preserve">
           <source>START INCUBATION</source>
@@ -688,7 +688,7 @@ Também tem {1} Stardust, {2} Candy e {3} XP.</target>
         </trans-unit>
         <trans-unit id="EggDetailTextBlock.Text" translate="yes" xml:space="preserve">
           <source>Use an incubator to incubate the Egg.</source>
-          <target state="final">Use uma incubadora para evoluir o ovo.</target>
+          <target state="final">Use uma incubadora para chocar o ovo.</target>
         </trans-unit>
         <trans-unit id="PokedexCaught.Text" translate="yes" xml:space="preserve">
           <source>Caught:</source>
@@ -774,27 +774,27 @@ Também tem {1} Stardust, {2} Candy e {3} XP.</target>
         </trans-unit>
         <trans-unit id="D_ItemIncenseCool" translate="yes" xml:space="preserve">
           <source>Incense with a mysterious fragrance that lures wild Pokémon to your location for 30 minutes</source>
-          <target state="translated">Incenso com uma fragrância misteriosa que atrai os Pokémon selvagens para a sua localização por 30 minutos</target>
+          <target state="final">Incenso com uma fragrância misteriosa que atrai os Pokémon selvagens para a sua localização por 30 minutos</target>
         </trans-unit>
         <trans-unit id="D_ItemIncenseFloral" translate="yes" xml:space="preserve">
           <source>Incense with a mysterious fragrance that lures wild Pokémon to your location for 30 minutes</source>
-          <target state="translated">Incenso com uma fragrância misteriosa que atrai os Pokémon selvagens para a sua localização por 30 minutos</target>
+          <target state="final">Incenso com uma fragrância misteriosa que atrai os Pokémon selvagens para a sua localização por 30 minutos</target>
         </trans-unit>
         <trans-unit id="D_ItemIncenseOrdinary" translate="yes" xml:space="preserve">
           <source>Incense with a mysterious fragrance that lures wild Pokémon to your location for 30 minutes</source>
-          <target state="translated">Incenso com uma fragrância misteriosa que atrai os Pokémon selvagens para a sua localização por 30 minutos</target>
+          <target state="final">Incenso com uma fragrância misteriosa que atrai os Pokémon selvagens para a sua localização por 30 minutos</target>
         </trans-unit>
         <trans-unit id="D_ItemIncenseSpicy" translate="yes" xml:space="preserve">
           <source>Incense with a mysterious fragrance that lures wild Pokémon to your location for 30 minutes</source>
-          <target state="translated">Incenso com uma fragrância misteriosa que atrai os Pokémon selvagens para a sua localização por 30 minutos</target>
+          <target state="final">Incenso com uma fragrância misteriosa que atrai os Pokémon selvagens para a sua localização por 30 minutos</target>
         </trans-unit>
         <trans-unit id="D_ItemIncubatorBasic" translate="yes" xml:space="preserve">
           <source>A device that incubates an Egg as you walk until it is ready to hatch. Breaks after 3 uses.</source>
-          <target state="translated">Um dispositivo que incuba o ovo conforme você anda até que esteja pronto para eclodir. Quebra após 3 usos.</target>
+          <target state="final">Um dispositivo que incuba o ovo conforme você anda até que esteja pronto para eclodir. Quebra após 3 usos.</target>
         </trans-unit>
         <trans-unit id="D_ItemIncubatorBasicUnlimited" translate="yes" xml:space="preserve">
           <source>A device that incubates an Egg as you walk until it is ready to hatch. Unlimited use!</source>
-          <target state="translated">Um dispositivo que incuba o ovo conforme você anda até que esteja pronto para eclodir. Uso ilimitado!</target>
+          <target state="final">Um dispositivo que incuba o ovo conforme você anda até que esteja pronto para eclodir. Uso ilimitado!</target>
         </trans-unit>
         <trans-unit id="D_ItemMasterBall" translate="yes" xml:space="preserve">
           <source>The best Poké Ball with the ultimate level of performance. With it you will catch any Pokémon without fail.</source>
@@ -803,24 +803,24 @@ Também tem {1} Stardust, {2} Candy e {3} XP.</target>
         </trans-unit>
         <trans-unit id="D_ItemPokeBall" translate="yes" xml:space="preserve">
           <source>A device for capturing wild Pokémon. It's thrown like a ball at a wild Pokémon, comfortably encapsulating its target.</source>
-          <target state="translated">Um dispositivo para capturar Pokémon selvagens. É jogado como uma bola em um Pokémon selvagem, encapsulando confortavelmente seu alvo.</target>
+          <target state="final">Um dispositivo para capturar Pokémon selvagens. É jogado como uma bola em um Pokémon selvagem, encapsulando confortavelmente seu alvo.</target>
         </trans-unit>
         <trans-unit id="D_ItemPotion" translate="yes" xml:space="preserve">
           <source>A spray-type medicine for treating wounds. It restores the HP of one Pokémon by 20 points.</source>
-          <target state="translated">Um medicamento tipo spray para o tratamento de feridas. Ele restaura 20 pontos do HP de um Pokémon.</target>
+          <target state="final">Um medicamento tipo spray para o tratamento de feridas. Ele restaura 20 pontos de Vida de um Pokémon.</target>
         </trans-unit>
         <trans-unit id="D_ItemRevive" translate="yes" xml:space="preserve">
           <source>A medicine that can revive fainted Pokémon. It also restores half of a fainted Pokémon's maximum HP.</source>
-          <target state="translated">Um medicamento que pode reviver Pokémon desmaiados. Ele também restaura metade do HP máximo de um Pokémon desmaiado.</target>
+          <target state="final">Um medicamento que pode reviver Pokémons desmaiados. Ele também restaura metade da Vida máxima de um Pokémon desmaiado.</target>
         </trans-unit>
         <trans-unit id="D_ItemUltraBall" translate="yes" xml:space="preserve">
           <source>An ultra-high performance Poké Ball that provides a higher success rate for catching Pokémon than a Great.</source>
           <target state="needs-review-translation">Um dispositivo para capturar Pokémon selvagens. É jogado como uma bola em um Pokémon selvagem, encapsulando confortavelmente seu alvo.</target>
           <note from="MultilingualUpdate" annotates="source" priority="2">Please verify the translation’s accuracy as the source string was updated after it was translated.</note>
         </trans-unit>
-        <trans-unit id="ItemBlukBerry" translate="yes" xml:space="preserve">
+        <trans-unit id="ItemBlukBerry" translate="no" xml:space="preserve">
           <source>Bluk Berry</source>
-          <target state="translated">Bluk Berry</target>
+          <target state="final">Bluk Berry</target>
         </trans-unit>
         <trans-unit id="ItemGreatBall" translate="yes" xml:space="preserve">
           <source>Great Ball</source>
@@ -864,7 +864,7 @@ Também tem {1} Stardust, {2} Candy e {3} XP.</target>
         </trans-unit>
         <trans-unit id="ItemMasterBall" translate="yes" xml:space="preserve">
           <source>Master Ball</source>
-          <target state="translated">Bola Mestre</target>
+          <target state="final">Bola Mestre</target>
         </trans-unit>
         <trans-unit id="ItemMaxPotion" translate="yes" xml:space="preserve">
           <source>Max Potion</source>
@@ -874,13 +874,13 @@ Também tem {1} Stardust, {2} Candy e {3} XP.</target>
           <source>Max Revive</source>
           <target state="translated">Reviver Máximo</target>
         </trans-unit>
-        <trans-unit id="ItemNanabBerry" translate="yes" xml:space="preserve">
+        <trans-unit id="ItemNanabBerry" translate="no" xml:space="preserve">
           <source>Nanab Berry</source>
-          <target state="translated">Fruta Nanab</target>
+          <target state="final">Nanab Berry</target>
         </trans-unit>
-        <trans-unit id="ItemPinapBerry" translate="yes" xml:space="preserve">
+        <trans-unit id="ItemPinapBerry" translate="no" xml:space="preserve">
           <source>Pinap Berry</source>
-          <target state="translated">Fruta Pinap</target>
+          <target state="final">Pinap Berry</target>
         </trans-unit>
         <trans-unit id="ItemPokeBall" translate="yes" xml:space="preserve">
           <source>Poke Ball</source>
@@ -892,11 +892,11 @@ Também tem {1} Stardust, {2} Candy e {3} XP.</target>
         </trans-unit>
         <trans-unit id="ItemPotion" translate="yes" xml:space="preserve">
           <source>Potion</source>
-          <target state="translated">Poção</target>
+          <target state="final">Poção</target>
         </trans-unit>
-        <trans-unit id="ItemRazzBerry" translate="yes" xml:space="preserve">
+        <trans-unit id="ItemRazzBerry" translate="no" xml:space="preserve">
           <source>Razz Berry</source>
-          <target state="final">Amora</target>
+          <target state="final">Razz Berry</target>
         </trans-unit>
         <trans-unit id="ItemRevive" translate="yes" xml:space="preserve">
           <source>Revive</source>
@@ -922,9 +922,9 @@ Também tem {1} Stardust, {2} Candy e {3} XP.</target>
           <source>Unknown</source>
           <target state="final">Desconhecido</target>
         </trans-unit>
-        <trans-unit id="ItemWeparBerry" translate="yes" xml:space="preserve">
+        <trans-unit id="ItemWeparBerry" translate="no" xml:space="preserve">
           <source>Wepar Berry</source>
-          <target state="translated">Fruta Wepar</target>
+          <target state="final">Wepar Berry</target>
         </trans-unit>
         <trans-unit id="ItemXAttack" translate="yes" xml:space="preserve">
           <source>X Attack</source>
@@ -1703,7 +1703,7 @@ Também tem {1} Stardust, {2} Candy e {3} XP.</target>
         </trans-unit>
         <trans-unit id="ThunderShock" translate="yes" xml:space="preserve">
           <source>Thunder Shock</source>
-          <target state="translated">Choque do trovão</target>
+          <target state="final">Choque do trovão</target>
         </trans-unit>
         <trans-unit id="ViceGrip" translate="yes" xml:space="preserve">
           <source>Vice Grip</source>
@@ -1735,7 +1735,7 @@ Também tem {1} Stardust, {2} Candy e {3} XP.</target>
         </trans-unit>
         <trans-unit id="AcidFast" translate="yes" xml:space="preserve">
           <source>Acid Fast</source>
-          <target state="translated">Ácido rápido</target>
+          <target state="final">Ácido rápido</target>
         </trans-unit>
         <trans-unit id="AerialAce" translate="yes" xml:space="preserve">
           <source>Aerial Ace</source>
@@ -2111,7 +2111,7 @@ Também tem {1} Stardust, {2} Candy e {3} XP.</target>
         </trans-unit>
         <trans-unit id="PsychoCutFast" translate="yes" xml:space="preserve">
           <source>Psycho Cut</source>
-          <target state="translated">Corte Psiquico</target>
+          <target state="final">Corte Psiquico</target>
         </trans-unit>
         <trans-unit id="Psyshock" translate="yes" xml:space="preserve">
           <source>Psyshock</source>

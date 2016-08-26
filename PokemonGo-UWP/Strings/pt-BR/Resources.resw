@@ -22,13 +22,13 @@
     <value>Faça o LOGIN com uma conta do PTC</value>
   </data>
   <data name="LoginDisclaimerTextBox.Text" xml:space="preserve">
-    <value>Para entrar você precisa inserir seu nome de usuário/E-mail e senha neste app. Se não confia nele, por favor, feche-o. Não nos responsabilizamos por nada.</value>
+    <value>Para entrar você precisa inserir seu nome de usuário/E-mail e senha neste app. Se não confia nele, por favor, feche-o antes de continuar. Não nos responsabilizamos por nada.</value>
   </data>
   <data name="NearbyPokemonTextBlock.Text" xml:space="preserve">
     <value>nas proximidades</value>
   </data>
   <data name="OutOfRangeTextBlock.Text" xml:space="preserve">
-    <value>Esta Poléstop esta muito longe.</value>
+    <value>Você está fora do alcance</value>
   </data>
   <data name="LoginPasswordPasswordBox.PlaceholderText" xml:space="preserve">
     <value>Senha</value>
@@ -41,9 +41,6 @@
   </data>
   <data name="SettingsMusicTextBlock.Text" xml:space="preserve">
     <value>Música</value>
-  </data>
-  <data name="PokemonTextBlock.Text" xml:space="preserve">
-    <value>POKÉMON</value>
   </data>
   <data name="SettingsHeaderTextBlock.Text" xml:space="preserve">
     <value>CONFIGURAÇÕES</value>
@@ -62,6 +59,9 @@
   </data>
   <data name="LowercaseItemsTextBlock.Text" xml:space="preserve">
     <value>Itens</value>
+  </data>
+  <data name="TotalExperienceTextBlock.Text" xml:space="preserve">
+    <value>TOTAL</value>
   </data>
   <data name="LevelUpTextBlock.Text" xml:space="preserve">
     <value>Subiu de nível!</value>
@@ -99,6 +99,9 @@
   <data name="MTextBlock.Text" xml:space="preserve">
     <value>m</value>
   </data>
+  <data name="StardustTextBlock.Text" xml:space="preserve">
+    <value>STARDUST</value>
+  </data>
   <data name="CandyTextBlock.Text" xml:space="preserve">
     <value>DOCE</value>
     <comment>Watch out: space before the word!</comment>
@@ -110,7 +113,7 @@
     <value>ENERGIZAR</value>
   </data>
   <data name="EggDetailButtonTextBlock.Text" xml:space="preserve">
-    <value>Começar incubação</value>
+    <value>Começar incubaçao</value>
   </data>
   <data name="EggDetailTextBlock.Text" xml:space="preserve">
     <value>Use uma incubadora para evoluir o ovo.</value>
@@ -119,7 +122,7 @@
     <value>Capturado:</value>
   </data>
   <data name="PokedexEvolutions.Text" xml:space="preserve">
-    <value>Evoluções</value>
+    <value>Evoluçoes</value>
   </data>
   <data name="PokedexPokemonHeight.Text" xml:space="preserve">
     <value>Altura:</value>
@@ -132,6 +135,9 @@
   </data>
   <data name="PokedexSeen.Text" xml:space="preserve">
     <value>Visto:</value>
+  </data>
+  <data name="PokedexText.Text" xml:space="preserve">
+    <value>POKÉDEX</value>
   </data>
   <data name="PokedexViewCaught.Text" xml:space="preserve">
     <value>Capturado</value>
@@ -149,7 +155,7 @@
     <value>TRANSFERIR</value>
   </data>
   <data name="SettingsLanguageRestartTextBlock.Text" xml:space="preserve">
-    <value>Você precisa reiniciar a aplicaçao para que as mudanças tenham efeito.</value>
+    <value>Você precisa restartar a aplicaçao para que as mudanças tenham efeito.</value>
   </data>
   <data name="SettingsLanguageTextBlock.Text" xml:space="preserve">
     <value>Linguagem</value>

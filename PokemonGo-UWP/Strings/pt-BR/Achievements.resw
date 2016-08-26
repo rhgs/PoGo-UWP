@@ -30,6 +30,9 @@
   <data name="BadgeHatchedTotal" xml:space="preserve">
     <value>Reprodutor</value>
   </data>
+  <data name="BadgePikachu" xml:space="preserve">
+    <value>Pikachu</value>
+  </data>
   <data name="BadgePokestopsVisited" xml:space="preserve">
     <value>Mochileiro</value>
   </data>
@@ -124,18 +127,16 @@
     <value>Andou {0} km</value>
   </data>
   <data name="BugDescription" xml:space="preserve">
-    <value>Capturou {0} Pokemon(s) Inseto
-</value>
+    <value>Capturou {0} Pokemon Insetos</value>
   </data>
   <data name="DragonDescription" xml:space="preserve">
-    <value>Capturou {0} Pokemon(s) Dragão
-</value>
+    <value>Capturou {0} Pokemon Dragoes</value>
   </data>
   <data name="ElectricDescription" xml:space="preserve">
-    <value>Capturou {0} Pokemon(s) Elétrico</value>
+    <value>Capturou {0} Pokemons Elétricos</value>
   </data>
   <data name="FairyDescription" xml:space="preserve">
-    <value>Capturou {0} Pokemon(s) Mágico</value>
+    <value>Capturou {0} Pokemons Mágicos</value>
   </data>
   <data name="FightingDescription" xml:space="preserve">
     <value>Capturou {0} Pokemons Lutadores</value>
@@ -147,16 +148,16 @@
     <value>Capturou {0} Pokemons Voadores</value>
   </data>
   <data name="GhostDescription" xml:space="preserve">
-    <value>Capturou {0} Pokemon(s) Fantasma</value>
+    <value>Capturou {0} Pokemons Fantasmas</value>
   </data>
   <data name="GrassDescription" xml:space="preserve">
-    <value>Capturou {0} Pokemon(s)  Grama</value>
+    <value>Capturou {0} Pokemons Grama</value>
   </data>
   <data name="GroundDescription" xml:space="preserve">
-    <value>Capturou {0} Pokemon(s) Terra</value>
+    <value>Capturou {0} Pokemons Terra</value>
   </data>
   <data name="IceDescription" xml:space="preserve">
-    <value>Capturou {0} Pokemon(s) Gelo</value>
+    <value>Capturou {0} Pokemons Gelo</value>
   </data>
   <data name="NormalDescription" xml:space="preserve">
     <value>Capturou {0} Pokemons Normais</value>

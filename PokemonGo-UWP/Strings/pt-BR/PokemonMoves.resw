@@ -37,16 +37,13 @@
     <value>Roda de fogo</value>
   </data>
   <data name="HyperBeam" xml:space="preserve">
-    <value>Hiper raio</value>
+    <value>Hyper Beam</value>
   </data>
   <data name="Lick" xml:space="preserve">
     <value>Lamber</value>
   </data>
   <data name="LowKick" xml:space="preserve">
     <value>Chute baixo</value>
-  </data>
-  <data name="Megahorn" xml:space="preserve">
-    <value>Megahorn</value>
   </data>
   <data name="MetalClaw" xml:space="preserve">
     <value>Garra de metal</value>
@@ -512,9 +509,6 @@
   </data>
   <data name="ThunderShockFast" xml:space="preserve">
     <value>Choque do trovão</value>
-  </data>
-  <data name="Twineedle" xml:space="preserve">
-    <value>Twineedle</value>
   </data>
   <data name="Twister" xml:space="preserve">
     <value>Tornado</value>

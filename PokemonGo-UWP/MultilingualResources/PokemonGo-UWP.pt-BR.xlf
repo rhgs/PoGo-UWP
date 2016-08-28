@@ -28,7 +28,7 @@
         </trans-unit>
         <trans-unit id="BadgeHatchedTotal" translate="yes" xml:space="preserve">
           <source>Breeder</source>
-          <target state="final">Reprodutor</target>
+          <target state="final">Criador</target>
         </trans-unit>
         <trans-unit id="BadgePikachu" translate="no" xml:space="preserve">
           <source>Pikachu</source>
@@ -60,7 +60,7 @@
         </trans-unit>
         <trans-unit id="Electric" translate="yes" xml:space="preserve">
           <source>Rocker</source>
-          <target state="final">Oscilante</target>
+          <target state="translated">Motoqueiro Rock'n Roll</target>
         </trans-unit>
         <trans-unit id="Fairy" translate="yes" xml:space="preserve">
           <source>Fairy Tale Girl</source>
@@ -112,7 +112,7 @@
         </trans-unit>
         <trans-unit id="Steel" translate="yes" xml:space="preserve">
           <source>Depot Agent</source>
-          <target state="final">Agente de depósito</target>
+          <target state="final">Agente Ferroviário</target>
         </trans-unit>
         <trans-unit id="Water" translate="yes" xml:space="preserve">
           <source>Swimmer</source>
@@ -353,7 +353,8 @@ Abrir a página com os arquivos de instalação para instalação manual?</targe
         </trans-unit>
         <trans-unit id="TransferPokemonSuccessText" translate="yes" xml:space="preserve">
           <source>Transfer succeeded! Got a {0} Candy from the Professor.</source>
-          <target state="final">Transferencia bem sucedida! Você ganhou um doce de {0} do professor.</target>
+          <target state="final">Transferencia bem sucedida! Você ganhou um doce de {0} do professor.
+</target>
         </trans-unit>
         <trans-unit id="TransferPokemonWarningText" translate="yes" xml:space="preserve">
           <source>You can't take it back after it's transferred to the Professor.</source>
@@ -820,7 +821,7 @@ Também tem {1} Stardust, {2} Candy e {3} XP.</target>
         </trans-unit>
         <trans-unit id="D_ItemPotion" translate="yes" xml:space="preserve">
           <source>A spray-type medicine for treating wounds. It restores the HP of one Pokémon by 20 points.</source>
-          <target state="final">Um medicamento tipo spray para o tratamento de feridas. Ele restaura 20 pontos de Vida de um Pokémon.</target>
+          <target state="final">Um medicamento do tipo spray para o tratamento de feridas. Ele restaura a Vida de um Pokémon em 20 pontos.</target>
         </trans-unit>
         <trans-unit id="D_ItemRevive" translate="yes" xml:space="preserve">
           <source>A medicine that can revive fainted Pokémon. It also restores half of a fainted Pokémon's maximum HP.</source>
@@ -965,7 +966,7 @@ Também tem {1} Stardust, {2} Candy e {3} XP.</target>
         </trans-unit>
         <trans-unit id="D_ItemSuperPotion" translate="yes" xml:space="preserve">
           <source>A spray-type medicine for treating wounds. It restores the HP of one Pokémon by 50 points.</source>
-          <target state="final">Um medicamento do tipo spray para o tratamento de feridas. Ele restaura a Vida de um Pokémon por 50 pontos.</target>
+          <target state="final">Um medicamento do tipo spray para o tratamento de feridas. Ele restaura a Vida de um Pokémon em 50 pontos.</target>
         </trans-unit>
         <trans-unit id="D_ItemTroyDisk" translate="yes" xml:space="preserve">
           <source>A module that attracts Pokémon to a Pokéstop for 30 min. The effect benefits other people nearby.</source>
@@ -1687,7 +1688,7 @@ Também tem {1} Stardust, {2} Candy e {3} XP.</target>
         </trans-unit>
         <trans-unit id="RazorLeaf" translate="yes" xml:space="preserve">
           <source>Razor Leaf</source>
-          <target state="translated">Folha navalha</target>
+          <target state="final">Folha Navalha</target>
         </trans-unit>
         <trans-unit id="Scratch" translate="yes" xml:space="preserve">
           <source>Scratch</source>
@@ -1715,7 +1716,7 @@ Também tem {1} Stardust, {2} Candy e {3} XP.</target>
         </trans-unit>
         <trans-unit id="ThunderShock" translate="yes" xml:space="preserve">
           <source>Thunder Shock</source>
-          <target state="final">Choque do trovão</target>
+          <target state="translated">Choque do Trovão</target>
         </trans-unit>
         <trans-unit id="ViceGrip" translate="yes" xml:space="preserve">
           <source>Vice Grip</source>
@@ -1939,7 +1940,7 @@ Também tem {1} Stardust, {2} Candy e {3} XP.</target>
         </trans-unit>
         <trans-unit id="GigaDrain" translate="yes" xml:space="preserve">
           <source>Giga Drain</source>
-          <target state="translated">Giga dreno</target>
+          <target state="final">Giga Dreno</target>
         </trans-unit>
         <trans-unit id="GunkShot" translate="yes" xml:space="preserve">
           <source>Gunk Shot</source>
@@ -2011,7 +2012,7 @@ Também tem {1} Stardust, {2} Candy e {3} XP.</target>
         </trans-unit>
         <trans-unit id="LeafBlade" translate="yes" xml:space="preserve">
           <source>Leaf Blade</source>
-          <target state="translated">Lâmina de folha</target>
+          <target state="final">Lâmina de Folha</target>
         </trans-unit>
         <trans-unit id="LickFast" translate="yes" xml:space="preserve">
           <source>Lick Fast</source>
@@ -2139,7 +2140,7 @@ Também tem {1} Stardust, {2} Candy e {3} XP.</target>
         </trans-unit>
         <trans-unit id="RazorLeafFast" translate="yes" xml:space="preserve">
           <source>Razor Leaf</source>
-          <target state="translated">Folha navalha</target>
+          <target state="final">Folha Navalha</target>
         </trans-unit>
         <trans-unit id="Rest" translate="yes" xml:space="preserve">
           <source>Rest</source>
@@ -2460,7 +2461,7 @@ Também tem {1} Stardust, {2} Candy e {3} XP.</target>
         </trans-unit>
         <trans-unit id="NidoranFemale.Description" translate="yes" xml:space="preserve">
           <source>Nidoran♀ has barbs that secrete a powerful poison. They are thought to have developed as protection for this small-bodied Pokémon. When enraged, it releases a horrible toxin from its horn.</source>
-          <target state="translated">Nidoran♀ tem bigodes que secretam um poderoso veneno. Como ele é um Pokemon de corpo pequeno, este veneno e usado para sua proteçao. Quando enfurecido, ele libera uma toxina horrível de seu chifre.</target>
+          <target state="translated">Nidoran♀ tem bigodes que secretam um poderoso veneno. Como ele é um Pokémon de corpo pequeno, este veneno e usado para sua proteçao. Quando enfurecido, ele libera uma toxina horrível de seu chifre.</target>
         </trans-unit>
         <trans-unit id="Nidorina.Description" translate="yes" xml:space="preserve">
           <source>When Nidorina are with their friends or family, they keep their barbs tucked away to prevent hurting each other. This Pokémon appears to become nervous if separated from the others.</source>

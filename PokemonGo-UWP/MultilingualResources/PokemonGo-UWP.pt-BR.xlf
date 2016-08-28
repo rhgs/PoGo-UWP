@@ -16,7 +16,7 @@
         </trans-unit>
         <trans-unit id="BadgeBigMagikarp" translate="yes" xml:space="preserve">
           <source>Fisherman</source>
-          <target state="translated">Pescador</target>
+          <target state="final">Pescador</target>
         </trans-unit>
         <trans-unit id="BadgeCaptureTotal" translate="yes" xml:space="preserve">
           <source>Collector</source>
@@ -80,7 +80,7 @@
         </trans-unit>
         <trans-unit id="Ghost" translate="yes" xml:space="preserve">
           <source>Hex Maniac</source>
-          <target state="translated">Louco por Feitiços</target>
+          <target state="final">Louco por Feitiços</target>
         </trans-unit>
         <trans-unit id="Grass" translate="yes" xml:space="preserve">
           <source>Gardener</source>
@@ -88,7 +88,7 @@
         </trans-unit>
         <trans-unit id="Ground" translate="yes" xml:space="preserve">
           <source>Ruin Maniac</source>
-          <target state="translated">Louco por Destruição</target>
+          <target state="final">Louco por Destruição</target>
         </trans-unit>
         <trans-unit id="Ice" translate="yes" xml:space="preserve">
           <source>Skier</source>
@@ -108,7 +108,7 @@
         </trans-unit>
         <trans-unit id="Rock" translate="yes" xml:space="preserve">
           <source>Hiker</source>
-          <target state="final">Andarilho</target>
+          <target state="final">Alpinista</target>
         </trans-unit>
         <trans-unit id="Steel" translate="yes" xml:space="preserve">
           <source>Depot Agent</source>
@@ -136,11 +136,11 @@
         </trans-unit>
         <trans-unit id="BadgeEvolvedTotalDescription" translate="yes" xml:space="preserve">
           <source>Evolved {0} Pokémon</source>
-          <target state="final">Evoluiu {0} Pokémon</target>
+          <target state="final">Evoluiu {0} Pokémons</target>
         </trans-unit>
         <trans-unit id="BadgeHatchedTotalDescription" translate="yes" xml:space="preserve">
           <source>Hatched {0} Pokemon</source>
-          <target state="final">Chocou {0} Pokémon</target>
+          <target state="final">Chocou {0} Pokémons</target>
         </trans-unit>
         <trans-unit id="BadgePikachuDescription" translate="yes" xml:space="preserve">
           <source>Caught {0} Pikachu</source>
@@ -357,7 +357,7 @@ Abrir a página com os arquivos de instalação para instalação manual?</targe
         </trans-unit>
         <trans-unit id="TransferPokemonWarningText" translate="yes" xml:space="preserve">
           <source>You can't take it back after it's transferred to the Professor.</source>
-          <target state="translated">Você não poderá ter seu Pokémon de volta depois que ele for transferido para o Professor.</target>
+          <target state="final">Você não poderá ter seu Pokémon de volta depois que ele for transferido para o Professor.</target>
         </trans-unit>
         <trans-unit id="LoginExpired" translate="yes" xml:space="preserve">
           <source>Previous login expired.</source>
@@ -511,7 +511,7 @@ Também tem {1} Stardust, {2} Candy e {3} XP.</target>
         </trans-unit>
         <trans-unit id="CancelText" translate="yes" xml:space="preserve">
           <source>CANCEL</source>
-          <target state="translated">CANCELAR</target>
+          <target state="final">CANCELAR</target>
           <note from="MultilingualBuild" annotates="source" priority="2">Capslock</note>
         </trans-unit>
         <trans-unit id="ItemDiscardWarningText" translate="yes" xml:space="preserve">
@@ -743,7 +743,7 @@ Também tem {1} Stardust, {2} Candy e {3} XP.</target>
         </trans-unit>
         <trans-unit id="TimesTextBlock.Text" translate="yes" xml:space="preserve">
           <source>times</source>
-          <target state="translated">vezes</target>
+          <target state="final">vezes</target>
         </trans-unit>
         <trans-unit id="SettingsRememberMapZoomTextBlock.Text" translate="yes" xml:space="preserve">
           <source>Remember Map Zoom</source>
@@ -928,7 +928,7 @@ Também tem {1} Stardust, {2} Candy e {3} XP.</target>
         </trans-unit>
         <trans-unit id="ItemUltraBall" translate="yes" xml:space="preserve">
           <source>Ultra Ball</source>
-          <target state="translated">Ultra Bola</target>
+          <target state="final">Ultra Bola</target>
         </trans-unit>
         <trans-unit id="ItemUnknown" translate="yes" xml:space="preserve">
           <source>Unknown</source>
@@ -965,7 +965,7 @@ Também tem {1} Stardust, {2} Candy e {3} XP.</target>
         </trans-unit>
         <trans-unit id="D_ItemSuperPotion" translate="yes" xml:space="preserve">
           <source>A spray-type medicine for treating wounds. It restores the HP of one Pokémon by 50 points.</source>
-          <target state="translated">Um medicamento do tipo spray para o tratamento de feridas. Ele restaura a Vida de um Pokémon por 50 pontos.</target>
+          <target state="final">Um medicamento do tipo spray para o tratamento de feridas. Ele restaura a Vida de um Pokémon por 50 pontos.</target>
         </trans-unit>
         <trans-unit id="D_ItemTroyDisk" translate="yes" xml:space="preserve">
           <source>A module that attracts Pokémon to a Pokéstop for 30 min. The effect benefits other people nearby.</source>
@@ -1000,9 +1000,9 @@ Também tem {1} Stardust, {2} Candy e {3} XP.</target>
     </header>
     <body>
       <group id="POKEMONGO-UWP/STRINGS/EN-US/POKEMON.RESW" datatype="resx">
-        <trans-unit id="Abra" translate="yes" xml:space="preserve">
+        <trans-unit id="Abra" translate="no" xml:space="preserve">
           <source>Abra</source>
-          <target state="translated">Abra</target>
+          <target state="final">Abra</target>
         </trans-unit>
         <trans-unit id="Aerodactyl" translate="no" xml:space="preserve">
           <source>Aerodactyl</source>
@@ -2348,7 +2348,7 @@ Também tem {1} Stardust, {2} Candy e {3} XP.</target>
       <group id="POKEMONGO-UWP/STRINGS/EN-US/POKEDEX.RESW" datatype="resx">
         <trans-unit id="Bulbasaur.Description" translate="yes" xml:space="preserve">
           <source>Bulbasaur can be seen napping in bright sunlight. There is a seed on its back. By soaking up the sun’s rays, the seed grows progressively larger.</source>
-          <target state="translated">Bulbasaur pode ser visto cochilando sob a luz do sol. Há uma semente na sua calda . Absorvendo os raios do sol , a semente cresce progressivamente.</target>
+          <target state="final">Bulbasaur pode ser visto cochilando sob a luz do sol. Há uma semente na sua calda . Absorvendo os raios do sol , a semente cresce progressivamente.</target>
         </trans-unit>
         <trans-unit id="Ivysaur.Description" translate="yes" xml:space="preserve">
           <source>There is a bud on this Pokémon’s back. To support its weight, Ivysaur’s legs and trunk grow thick and strong. If it starts spending more time lying in the sunlight, it’s a sign that the bud will bloom into a large flower soon.</source>
@@ -2356,11 +2356,11 @@ Também tem {1} Stardust, {2} Candy e {3} XP.</target>
         </trans-unit>
         <trans-unit id="Venusaur.Description" translate="yes" xml:space="preserve">
           <source>There is a large flower on Venusaur’s back. The flower is said to take on vivid colors if it gets plenty of nutrition and sunlight. The flower’s aroma soothes the emotions of people.</source>
-          <target state="translated">Há uma grande flor nas costas do Venusaur . A flor terá cores vivas se ele tiver muita nutrição e luz solar. O aroma da flor acalma as emoções das pessoas </target>
+          <target state="final">Há uma grande flor nas costas do Venusaur. A flor terá cores vivas se ele tiver muita nutrição e luz solar. O aroma da flor acalma as emoções das pessoas.</target>
         </trans-unit>
         <trans-unit id="Charmander.Description" translate="yes" xml:space="preserve">
           <source>The flame that burns at the tip of its tail is an indication of its emotions. The flame wavers when Charmander is enjoying itself. If the Pokémon becomes enraged, the flame burns fiercely.</source>
-          <target state="translated">A chama que arde na ponta da cauda é uma indicação das suas emoções . A chama oscila quando Charmander está desfrutando de si mesmo. Se o Pokémon fica furioso , a chama queima ferozmente </target>
+          <target state="final">A chama que arde na ponta da cauda é uma indicação das suas emoções. A chama oscila quando Charmander está desfrutando de si mesmo. Se o Pokémon fica furioso, a chama queima ferozmente.</target>
         </trans-unit>
         <trans-unit id="Charmeleon.Description" translate="yes" xml:space="preserve">
           <source>Charmeleon mercilessly destroys its foes using its sharp claws. If it encounters a strong foe, it turns aggressive. In this excited state, the flame at the tip of its tail flares with a bluish white color.</source>
@@ -2384,7 +2384,7 @@ Também tem {1} Stardust, {2} Candy e {3} XP.</target>
         </trans-unit>
         <trans-unit id="Caterpie.Description" translate="yes" xml:space="preserve">
           <source>Caterpie has a voracious appetite. It can devour leaves bigger than its body right before your eyes. From its antenna, this Pokémon releases a terrifically strong odor.</source>
-          <target state="translated">Caterpie tem um apetite voraz . Ele pode devorar as folhas maiores do que o seu corpo bem diante dos seus olhos. A partir de sua antena , este Pokémon libera um odor terrivelmente forte .</target>
+          <target state="final">Caterpie tem um apetite voraz . Ele pode devorar as folhas maiores do que o seu corpo bem diante dos seus olhos. A partir de sua antena, este Pokémon libera um odor terrivelmente forte.</target>
         </trans-unit>
         <trans-unit id="Metapod.Description" translate="yes" xml:space="preserve">
           <source>The shell covering this Pokémon’s body is as hard as an iron slab. Metapod does not move very much. It stays still because it is preparing its soft innards for evolution inside the hard shell.</source>
@@ -2392,7 +2392,7 @@ Também tem {1} Stardust, {2} Candy e {3} XP.</target>
         </trans-unit>
         <trans-unit id="Butterfree.Description" translate="yes" xml:space="preserve">
           <source>Butterfree has a superior ability to search for delicious honey from flowers. It can even search out, extract, and carry honey from flowers that are blooming over six miles from its nest.</source>
-          <target state="translated">Butterfree tem uma capacidade superior para procurar o delicioso mel das flores. Ele pode até mesmo buscar , extrair , transportar o mel das flores que estão florescendo a mais de seis Km's do seu ninho .</target>
+          <target state="final">Butterfree tem uma super capacidade de procurar o delicioso mel das flores. Ele pode até mesmo buscar, extrair, transportar o mel das flores que estão florescendo a mais de 9 Km's do seu ninho.</target>
         </trans-unit>
         <trans-unit id="Weedle.Description" translate="yes" xml:space="preserve">
           <source>Weedle has an extremely acute sense of smell. It is capable of distinguishing its favorite kinds of leaves from those it dislikes just by sniffing with its big red proboscis (nose).</source>
@@ -2596,7 +2596,7 @@ Também tem {1} Stardust, {2} Candy e {3} XP.</target>
         </trans-unit>
         <trans-unit id="Abra.Description" translate="yes" xml:space="preserve">
           <source>Abra needs to sleep for eighteen hours a day. If it doesn’t, this Pokémon loses its ability to use telekinetic powers. If it is attacked, Abra escapes using Teleport while it is still sleeping.</source>
-          <target state="translated">Abra precisa dormir para dezoito horas por dia. Se não, este Pokémon perde sua capacidade de usar poderes telecinéticos. Se é atacado, Abra escapa usando Teleporte enquanto ele ainda está dormindo.</target>
+          <target state="final">Abra precisa dormir para dezoito horas por dia. Se não, este Pokémon perde sua capacidade de usar poderes telecinéticos. Se é atacado, Abra escapa usando Teleporte enquanto ele ainda está dormindo.</target>
         </trans-unit>
         <trans-unit id="Kadabra.Description" translate="yes" xml:space="preserve">
           <source>Kadabra holds a silver spoon in its hand. The spoon is used to amplify the alpha waves in its brain. Without the spoon, the Pokémon is said to be limited to half the usual amount of its telekinetic powers.</source>
@@ -2796,7 +2796,7 @@ Também tem {1} Stardust, {2} Candy e {3} XP.</target>
         </trans-unit>
         <trans-unit id="Chansey.Description" translate="yes" xml:space="preserve">
           <source>Chansey lays nutritionally excellent eggs on an everyday basis. The eggs are so delicious, they are easily and eagerly devoured by even those people who have lost their appetite.</source>
-          <target state="translated">Chansey põe ovos nutricionalmente excelentes todos os dias. Os ovos são tão deliciosos, que eles são facilmente e avidamente devorados até mesmo por pessoas que perderam o seu apetite.</target>
+          <target state="translated">Chansey põe ovos excelentes e nutritivos todos os dias. Os ovos são tão deliciosos, que eles são facilmente e avidamente devorados até mesmo por pessoas que perderam o seu apetite.</target>
         </trans-unit>
         <trans-unit id="Tangela.Description" translate="yes" xml:space="preserve">
           <source>Tangela’s vines snap off easily if they are grabbed. This happens without pain, allowing it to make a quick getaway. The lost vines are replaced by newly grown vines the very next day.</source>

@@ -774,7 +774,7 @@ Você também gnahou {1} Poeira(s) Estelar(es), {2} Doces e {3} XP.</target>
         <trans-unit id="SettingsLiveTileTextBlock.Text" translate="yes" xml:space="preserve">
           <source>Live Tile Mode</source>
           <target state="final">Modelo da Live Tile</target>
-        </trans-unit>st
+        </trans-unit>
         <trans-unit id="FavoriteTextBlock.Text" translate="yes" xml:space="preserve">
           <source>FAVORITE</source>
           <target state="final">FAVORITO</target>

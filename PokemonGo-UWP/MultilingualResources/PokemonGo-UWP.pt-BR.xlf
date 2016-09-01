@@ -164,13 +164,11 @@
         </trans-unit>
         <trans-unit id="BugDescription" translate="yes" xml:space="preserve">
           <source>Caught {0} Bug Pokemon</source>
-          <target state="translated">Capturou {0} Pokémon tipo Inseto
-</target>
+          <target state="translated">Capturou {0} Pokémon tipo Inseto</target>
         </trans-unit>
         <trans-unit id="DragonDescription" translate="yes" xml:space="preserve">
           <source>Caught {0} Dragon Pokemon</source>
-          <target state="translated">Capturou {0} Pokémon tipo Dragão
-</target>
+          <target state="translated">Capturou {0} Pokémon tipo Dragão</target>
         </trans-unit>
         <trans-unit id="ElectricDescription" translate="yes" xml:space="preserve">
           <source>Caught {0} Electric Pokemon</source>
@@ -353,8 +351,7 @@ Abrir a página com os arquivos de instalação para instalação manual?</targe
         </trans-unit>
         <trans-unit id="TransferPokemonSuccessText" translate="yes" xml:space="preserve">
           <source>Transfer succeeded! Got a {0} Candy from the Professor.</source>
-          <target state="final">Transferencia bem sucedida! Você ganhou um doce de {0} do professor.
-</target>
+          <target state="final">Transferencia bem sucedida! Você ganhou um doce de {0} do professor.</target>
         </trans-unit>
         <trans-unit id="TransferPokemonWarningText" translate="yes" xml:space="preserve">
           <source>You can't take it back after it's transferred to the Professor.</source>
@@ -782,7 +779,7 @@ Você também gnahou {1} Poeira(s) Estelar(es), {2} Doces e {3} XP.</target>
         <trans-unit id="SettingsLiveTileTextBlock.Text" translate="yes" xml:space="preserve">
           <source>Live Tile Mode</source>
           <target state="final">Modelo da Live Tile</target>
-        </trans-unit>st
+        </trans-unit>
         <trans-unit id="FavoriteTextBlock.Text" translate="yes" xml:space="preserve">
           <source>FAVORITE</source>
           <target state="final">FAVORITO</target>
@@ -963,8 +960,7 @@ Você também gnahou {1} Poeira(s) Estelar(es), {2} Doces e {3} XP.</target>
         </trans-unit>
         <trans-unit id="ItemXAttack" translate="yes" xml:space="preserve">
           <source>X Attack</source>
-          <target state="translated">Ataque X
-</target>
+          <target state="translated">Ataque X</target>
         </trans-unit>
         <trans-unit id="ItemXDefense" translate="yes" xml:space="preserve">
           <source>X Defense</source>

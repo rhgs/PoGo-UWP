@@ -629,7 +629,7 @@ Você também gnahou {1} Stardust, {2} Candy e {3} XP.</target>
           <source>items</source>
           <target state="final">Itens</target>
         </trans-unit>
-        <trans-unit id="NumberTextBlock.Text" translate="no" xml:space="preserve">
+        <trans-unit id="NumberTextBlock.Text" translate="yes" xml:space="preserve">
           <source>+ </source>
           <target state="new">+ </target>
           <note from="MultilingualBuild" annotates="source" priority="2">Watch out: there is a space after the +</note>
